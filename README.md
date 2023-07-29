@@ -1,2 +1,3 @@
-# WeatherAppProject
-Html, Css, JavaScript
+# WeatherAppProject using Api
+Language used Html, Css, JavaScript
+
