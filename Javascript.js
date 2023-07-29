@@ -10,7 +10,7 @@ const currentTempEl = document.getElementById('current-temp');
 const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
-const API_KEY ='ec8257c9fa49de0cfc1aa7726f2a711c';
+const API_KEY ='066efc2d1c9427296e8adebad2fb455d';
 
 setInterval(() => {
     const time = new Date();
